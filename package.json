@@ -1,0 +1,21 @@
+{
+  "name": "artificial_intelligence_with_javascript",
+  "version": "1.0.0",
+  "description": "This is starting of a new javascript project which I'll be building with dedication for myself and my CV or resume",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AI"
+  ],
+  "author": "Aamir Zaidi",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.6.8"
+  },
+  "devDependencies": {
+    "electron": "^5.0.8",
+    "lodash": "^4.17.15"
+  }
+}
